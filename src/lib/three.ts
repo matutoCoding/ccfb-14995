@@ -1,0 +1,5 @@
+// 第三方库统一出口
+import * as THREE from "three"
+import { OrbitControls } from "three/examples/jsm/controls/OrbitControls.js"
+
+export { THREE, OrbitControls }
